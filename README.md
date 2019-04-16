@@ -1,25 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* git init
 
-Things you may want to cover:
+* git add .
 
-* Ruby version
+* git commit -m "first commit"
 
-* System dependencies
+* git remote add origin https://github.com/Teslenko/Rails-Chat.git
 
-* Configuration
+* git push -u origin master
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Rails-Chat
