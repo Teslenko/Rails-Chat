@@ -10,6 +10,8 @@
 
 * git push -u origin master
 
+------------------------------------------------------------------
+
 Deploy from local to Heroku
 
 * git init
