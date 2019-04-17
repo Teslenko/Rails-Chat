@@ -10,3 +10,14 @@
 
 * git push -u origin master
 
+Deploy from local to Heroku
+
+* git init
+
+* heroku git:remote -a cablechatteslvova
+
+* git add .
+
+* git commit -am "make it better"
+
+* git push heroku master
